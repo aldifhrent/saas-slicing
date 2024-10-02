@@ -8,9 +8,13 @@ const config: Config = {
   ],
   theme: {
     extend: {
+      container: {
+        center: true,
+      },
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        primary: "#2B2B2B",
       },
     },
   },
