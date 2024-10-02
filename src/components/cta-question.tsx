@@ -6,7 +6,7 @@ export default function CTAQuestion() {
             <div className="container mx-auto">
                 <div className="flex flex-col md:flex-row items-center justify-between gap-[30px]">
                     <div className="w-full lg:w-1/2">
-                        <h1 className="text-white text-3xl md:text-5xl lg:text-[60px] leading-[90px] max-w-sm font-semibold">
+                        <h1 className="text-white text-3xl md:text-6xl lg:text-[60px] leading-[90px] max-w-sm font-semibold">
                             Questions? Let&apos;s Talk
                         </h1>
                         <p className="text-white max-w-xs">
@@ -17,7 +17,7 @@ export default function CTAQuestion() {
                         </button>
                     </div>
                     <div>
-                        <Image src='/cta-image.gif' width={500} height={400} alt="CTA" className="max-w-xs lg:max-w-none object-contain"/>
+                        <Image src='/cta-image.gif' width={500} height={400} alt="CTA" className="max-w-xs lg:max-w-none object-contain rounded-lg"/>
                     </div>
                 </div>
             </div>

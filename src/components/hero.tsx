@@ -26,7 +26,7 @@ export default function Hero() {
               alt="Hero Image"
               width={500}
               height={446}
-              className="max-w-sm lg:max-w-none"
+              className="max-w-xs lg:max-w-none rounded-lg"
             />
           </div>
         </div>
