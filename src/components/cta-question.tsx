@@ -7,10 +7,10 @@ export default function CTAQuestion() {
                 <div className="flex flex-col md:flex-row items-center justify-between gap-[30px]">
                     <div className="w-full lg:w-1/2">
                         <h1 className="text-white text-3xl md:text-5xl lg:text-[60px] leading-[90px] max-w-sm font-semibold">
-                            Questions? Let's Talk
+                            Questions? Let&apos;s Talk
                         </h1>
                         <p className="text-white max-w-xs">
-                            Contact us through our 24/7 live chat. We’re always happy to help!
+                            Contact us through our 24/7 live chat. We&apos;re always happy to help!
                         </p>
                         <button className="mt-[22px] rounded-[15px] bg-[#F8D57E] px-9 py-[9px] text-[#333333] hover:bg-[#f3c75d]">
                             Get Started

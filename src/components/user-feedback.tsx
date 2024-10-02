@@ -30,6 +30,7 @@ export default function UserFeedback() {
                       .fill(0)
                       .map((i) => (
                         <Image
+                        key={i}
                           src="/Star.png"
                           width={20}
                           height={20}
